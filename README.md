@@ -42,9 +42,9 @@ ClinBench/
 ├── evaluator.py              # Evaluation script for predictions and metrics
 ├── prompts/                  # YAML prompt definitions per task
 ├── benchmark_data_definitions/
-│   ├── tcga_lung/            # Lung dataset IDs and ground-truth CSVs
-│   ├── mimic_ecg_af/         # ECG dataset IDs and ground-truth CSVs
-│   └── mimic_sdoh/           # SDOH dataset IDs and ground-truth CSVs
+│   ├── tcga_lung/            # Lung dataset IDs
+│   ├── mimic_ecg_af/         # ECG dataset IDs
+│   └── mimic_sdoh/           # SDOH dataset IDs
 ├── requirements.txt          # Python dependencies
 ├── LICENSE                   # MIT License
 ├── README.md                 # Project overview and instructions
