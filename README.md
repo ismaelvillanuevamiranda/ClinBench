@@ -139,15 +139,6 @@ The cross-task analysis compares mean F1 scores versus mean runtime for 11 LLMs 
 
 ---
 
-## Contributing
-
-Contributions welcome! Please:
-- Open issues or PRs for new LLM support or clinical tasks
-- Improve prompt templates, transforms, or evaluation metrics
-- Enhance performance, documentation, and usability
-
----
-
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
