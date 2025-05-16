@@ -148,13 +148,6 @@ Contributions welcome! Please:
 
 ---
 
-## Citation
-
-If you use ClinBench in your research, please cite:
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
