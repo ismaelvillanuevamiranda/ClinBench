@@ -1,0 +1,6 @@
+numpy==1.26.0
+pandas==2.2.3
+torch==2.5.1+cu118
+pyyaml==6.0.1
+openai==1.70.0
+strictjson==5.1.3
