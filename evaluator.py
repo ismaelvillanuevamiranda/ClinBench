@@ -196,7 +196,6 @@ if __name__ == "__main__":
                    help="whether to save confusion matrix plots")
     args = p.parse_args()
 
-    # Example: import or define your transform functions here
     from lung_transforms import (
         transform_pT,
         transform_pN,
@@ -208,14 +207,11 @@ if __name__ == "__main__":
         "pN":                   transform_pN,
         "tumor_stage":          transform_stage_value,
         "histologic_diagnosis": transform_histological_diagnosis,
-        # Add additional transforms as needed...
     }
 
-    # Optional: Specific label ordering for confusion matrix axes
     label_orders = {
         "pT": ["T1","T2","T3","T4","Unknown"],
         "pN": ["n0","n1","n2","n3","Unknown"],
-        # ...
     }
 
     # Instantiate and run the evaluator
