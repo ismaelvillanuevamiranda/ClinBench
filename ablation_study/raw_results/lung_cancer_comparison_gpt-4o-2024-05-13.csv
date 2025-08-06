@@ -1,0 +1,775 @@
+pT_GT,pT_pred,pN_GT,pN_pred,tumor_stage_GT,tumor_stage_pred,histologic_diagnosis_GT,histologic_diagnosis_pred
+T2a,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N0,N0,Unknown,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Other,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2,N0,N0,nan,Stage IB,Lung Squamous Cell Carcinoma,Lung Adenosquamous Carcinoma
+T2a,T2a,N0,N0,Stage IIIA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,"Other, non-small cell carcinoma",Lung Adenosquamous Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T3,nan,N0,Stage IIIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T3,N2,N2,Stage IIIA,Stage IIIA,"Other, adenosquamous carcinoma",Lung Adenosquamous Carcinoma
+T1a,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,"Other, non-small cell carcinoma",Lung Adenosquamous Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T3,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N1,N1,Stage IIIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N1,Stage IIIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T2a,N1,N1,Stage IIIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T3,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Unknown,Non small cell carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,"Other, non-small cell carcinoma",Lung Adenosquamous Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T3,N0,N0,Stage IA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1,T4,N1,N2,Stage IIB,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N0,N0,Stage IIB,Stage IIA,"Other, non-small cell carcinoma",Other
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,"Other, non-small cell carcinoma",Other
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N2,Stage IB,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,"Other, non-small cell carcinoma",Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,N0,Stage IA,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,NX,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,NX,N0,nan,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Unknown,Stage IIB,Lung Squamous Cell Carcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+nan,TX,nan,N0,nan,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+nan,TX,N0,N0,nan,Unknown,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,TX,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T4,N1,N1,Stage IIB,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+nan,T0,N1,N0,nan,Stage 0,Unknown,Unknown
+T2a,T2a,N1,N1,Stage IIIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N0,Stage IIA,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N2,N0,Stage IIIA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage I,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Other
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N2,N2,Stage IIIB,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenosquamous Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N0,N0,Stage IV,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N2,N2,Unknown,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IV,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N1,N1,Stage IIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+nan,TX,nan,N0,Unknown,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenosquamous Carcinoma
+T2b,T2b,N0,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T1b,N0,N0,Stage IB,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+TX,T4,NX,N0,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N1,N1,Stage IV,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N3,N3,Stage IIIB,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T4,N0,N0,Stage IA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Adenosquamous Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T4,NX,N0,Stage IV,Stage IV,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2a,N0,N0,Stage IIA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N2,N2,Stage IIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2a,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T3,N0,N0,Stage IB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Unknown,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Unknown,Unknown
+T2a,T2a,N0,N0,Stage IB,Stage IB,Unknown,Unknown
+T1a,T1b,N0,N0,Stage IA,Stage IA,Unknown,Unknown
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N0,N0,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,"Other, non-small cell carcinoma",Lung Squamous Cell Carcinoma
+T2a,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Unknown,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N2,N2,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,"Other, adenosquamous carcinoma",Lung Adenosquamous Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T3,N0,N0,Stage IB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T4,N1,N2,Stage IV,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N2,Stage IB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N3,N3,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N3,N3,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N3,N3,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N3,N3,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N1,N1,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N2,Stage IIIA,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N2,N2,Stage IIIA,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Unknown,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,"Other, adenosquamous carcinoma",Lung Adenosquamous Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T4,N2,N2,Stage IIIA,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IV,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Unknown,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Unknown,Lung Adenocarcinoma
+T2a,T4,N2,N2,Stage IIIA,Stage IIIB,Unknown,Lung Adenocarcinoma
+T2b,T4,N0,N0,Stage IB,Stage IIIA,Unknown,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Unknown,Unknown
+T2a,T2a,N0,N0,Stage IB,Stage IB,Unknown,Unknown
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Unknown
+T3,T3,N0,N0,Stage IIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T4,N1,N1,Stage IIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N1,N1,Stage IIIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N1,N2,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N1,Stage IIIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N1,N1,Stage IIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N0,N0,Stage IIIB,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N1,N1,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N2,N2,Stage IIIA,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,NX,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N2,N2,Stage IV,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T4,N0,N0,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T3,N0,N0,Stage IB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T3,N0,N0,Stage IB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,NX,Stage IIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2a,N1,N1,Stage IIIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,NX,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,NX,Stage IIB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,NX,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T2a,N0,NX,Stage IIIA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,NX,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,NX,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T2,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,NX,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N1,N2,Stage IIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,NX,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T1b,N0,N0,Stage IB,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T4,N0,N0,Stage IB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T3,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T3,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N2,Stage IIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N1,N2,Stage IIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,NX,NX,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,NX,nan,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N1,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,NX,Stage IA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,NX,nan,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,NX,NX,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T1b,N0,N0,Stage IB,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2a,N1,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,NX,Stage IIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,NX,Stage IA,Stage IB,Lung Adenocarcinoma,Other
+T1b,T1b,N0,NX,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T1b,N0,N0,Stage IB,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,NX,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Other,Lung Adenosquamous Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Other
+T2,T4,N2,N2,Stage IIIB,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T3,N0,N0,Stage IA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T4,N0,N0,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IV,Stage IV,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+TX,T4,NX,N2,Stage IV,Stage IIIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,NX,NX,Stage IA,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T4,N0,N0,Stage IA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N0,N0,Stage IA,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,"Other, adenosquamous carcinoma",Lung Adenosquamous Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T2b,N0,N0,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N2,N2,Stage IV,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2b,N1,N1,Stage IIA,Stage IIB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T2a,N2,N2,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T4,N0,N0,Stage IB,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T2b,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T4,N1,N1,Stage IIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N0,N0,Stage IIIB,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1a,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2,T2b,N0,N0,Stage IB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N1,N1,Stage IIB,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T4,N0,N0,Stage IB,Stage IIIA,Lung Squamous Cell Carcinoma,"Lung Squamous Cell Carcinoma, Lung Adenocarcinoma"
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IV,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N2,N2,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage IIIA,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N2,N2,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N1,N1,Stage IIA,Stage IIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T4,T4,N1,N1,Stage IIIA,Stage IIIA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2b,T2b,N0,N0,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N1,N1,Stage IIA,Stage IIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N2,N2,Stage IIIB,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T2,T3,N0,N0,Stage I,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T4,N1,N2,Stage IIIA,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T4,T4,N2,N2,Stage III,Stage IIIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N0,N0,Stage IIB,Stage IIB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T2a,T2a,N0,N0,Stage IB,Stage IB,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T3,T3,N1,N1,Stage III,Stage IIIA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
+T1b,T1b,N0,N0,Stage IA,Stage IA,Lung Adenocarcinoma,Lung Adenocarcinoma
+T1a,T1a,N0,N0,Stage IA,Stage IA,Lung Squamous Cell Carcinoma,Lung Squamous Cell Carcinoma
