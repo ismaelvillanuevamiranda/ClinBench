@@ -147,4 +147,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
 
-Questions or feedback? Open an issue or contact Ismael Villanueva at ismaelvillanueva@gmail.com
+Questions or feedback? Open an issue or contact Ismael Villanueva at ismael.villanueva-miranda@utsouthwestern.edu
